@@ -4,3 +4,4 @@ Seasoned IT professional with 8 years of experience working on software projects
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtunnell&show_icons=true&theme=radical)
 
+[![David's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidtunnell&layout=compact&theme=nightowl)
